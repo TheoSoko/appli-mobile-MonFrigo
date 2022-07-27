@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "445995957146",
+    "project_id": "mon-frigo-660b0",
+    "storage_bucket": "mon-frigo-660b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445995957146:android:6cd3397a497b5ad67d1823",
+        "android_client_info": {
+          "package_name": "com.monfrigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445995957146-p75345rthaugseg4ik2j9572olak5urn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Ie_fRfPE2xQho8r2anzH_etAKNwu2jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445995957146-p75345rthaugseg4ik2j9572olak5urn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

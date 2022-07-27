@@ -3,6 +3,7 @@ import {View, StyleSheet, TextInput} from 'react-native'
 import Icon from 'react-native-vector-icons/AntDesign'
 
 type inputProps = {
+    index:number
     placeholder?: string
     onChangeText: (text:string) => void
 }
@@ -28,5 +29,6 @@ const styles = StyleSheet.create({
         height: 45,
         paddingLeft: 9,
         fontSize: 15,
+        fontWeight: '500'
     }
 })
